@@ -1,28 +1,52 @@
-## ¡Hola! 👋 Soy José Gerchinhoren
+<div align="center">
+  <a href="https://www.linkedin.com/in/jos%C3%A9-gerchinhoren-102573249/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="linkedin logo"  />
+  </a>
+  <a href="https://www.youtube.com/channel/UCxzWoeCXLRcUDaHkZ-JUJFw" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="youtube logo"  />
+  </a>
+</div>
 
-Soy un apasionado desarrollador de software con experiencia en Python. Me encanta programar y crear soluciones innovadoras. Aquí encontrarás algunos de mis proyectos y contribuciones.
+###
 
-### Mis Habilidades
+<h1 align="center">Hola 👋 Mi nombre es José Gerchinhoren.</h1>
 
-- [Habilidad 1]
-- [Habilidad 2]
-- [Habilidad 3]
+###
 
-### Mis Proyectos Destacados
+<h3 align="left">👩‍💻  Acerca de</h3>
 
-- [Proyecto 1] - Breve descripción
-- [Proyecto 2] - Breve descripción
-- [Proyecto 3] - Breve descripción
+###
 
-### Estadísticas de GitHub
+<p align="left">Soy cientificio de datos, en proceso. Soy de Salta, Argentina 🇦🇷 . <br><br>- 📊 Estudiante de Licenciatura en ciencias de datos en la Universidad Catolica de Salta.<br>- 🚀 Graduado del bootcamp de ciencia de datos en Henry.<br>- 📚 Actualmente estoy aprendiendo para ser un profesional en ciencias de datos, con enfoque en ingenieria de datos.<br>- ⚡ En mi tiempo libre me gusta ir al gimnasio 💪.<br><br>Estoy en busca de mi primer trabajo IT.</p>
 
-[![Mis estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=JoseGerchinhoren&show_icons=true&theme=dark)](https://github.com/JoseGerchinhoren)
+###
 
-### Contacto
+<h3 align="left">🛠 Lenguajes y herramientas</h3>
 
-Puedes encontrarme en las siguientes redes sociales:
+###
 
-- [Twitter](https://twitter.com/tu_twitter)
-- [LinkedIn](https://www.linkedin.com/in/tu_linkedin)
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=aws" height="40" alt="amazonwebservices logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/amazondynamodb/4053D6" height="40" alt="amazondynamodb logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="40" alt="visualstudio logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="40" alt="power BI logo](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pngegg.com%2Fes%2Fpng-zqlrx&psig=AOvVaw2osfHeuV9abcY8SDkxqctM&ust=1693889769881000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCJjI66KVkIEDFQAAAAAdAAAAABAE)"  />
+  <img width="12" />
+</div>
 
-¡No dudes en explorar mis repositorios y contactarme si tienes alguna pregunta o colaboración en mente!
+###
+
+<h3 align="left">🔥   My Stats :</h3>
+
+###
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=JoseGerchinhoren&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
+
+###
