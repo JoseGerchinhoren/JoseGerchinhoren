@@ -35,7 +35,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="40" alt="visualstudio logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="40" alt="power BI logo](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pngegg.com%2Fes%2Fpng-zqlrx&psig=AOvVaw2osfHeuV9abcY8SDkxqctM&ust=1693889769881000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCJjI66KVkIEDFQAAAAAdAAAAABAE)"  />
+  <img src="https://e7.pngegg.com/pngimages/820/213/png-clipart-power-bi-business-intelligence-microsoft-corporation-data-visualization-data-analysis-power-bi-dashboard-templates.png" height="40" alt="power BI logo  />
   <img width="12" />
 </div>
 
