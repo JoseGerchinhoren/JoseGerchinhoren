@@ -17,7 +17,7 @@
 
 ###
 
-<p align="left">Soy cientificio de datos, en proceso. Soy de Salta, Argentina. <br><br>- 📊 Estudiante de Licenciatura en ciencias de datos en la Universidad Catolica de Salta.<br>- 🚀 Graduado del bootcamp de ciencia de datos en Henry.<br>- 📚 Actualmente estoy aprendiendo para ser un profesional en ciencias de datos, con enfoque en ingenieria de datos.<br>- ⚡ En mi tiempo libre me gusta ir al gimnasio 💪.<br><br>Estoy en busca de mi primer trabajo IT.</p>
+<p align="left">Soy estudiante de ciencias de datos, de Salta, Argentina. <br><br>- 📊 Estudiante de Licenciatura en ciencias de datos en la Universidad Catolica de Salta.<br>- 🚀 Graduado del bootcamp de ciencia de datos en Henry.<br>- 📚 Actualmente estoy aprendiendo para ser un profesional en ciencias de datos, con enfoque en ingenieria de datos.<br>- ⚡ En mi tiempo libre me gusta ir al gimnasio 💪.<br><br>Estoy en busca de mi primer trabajo IT.</p>
 
 ###
 
