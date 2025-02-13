@@ -17,7 +17,7 @@
 
 ###
 
-<p align="left">Soy estudiante de ciencias de datos, de Salta, Argentina. <br><br>- 📊 Estudiante de Licenciatura en ciencias de datos en la Universidad Catolica de Salta.<br>- 🚀 Graduado del bootcamp de ciencia de datos en Henry.<br>- 📚 Actualmente estoy aprendiendo para ser un profesional en ciencias de datos, con enfoque en ingenieria de datos.<br>- ⚡ En mi tiempo libre me gusta ir al gimnasio 💪.<br></p>
+<p align="left">Soy estudiante de ciencias de datos, de Salta, Argentina. <br><br>- 📊 Estudiante de Licenciatura en ciencias de datos en la Universidad Catolica de Salta.<br>- 🚀 Graduado del bootcamp de ciencia de datos en Henry.<br>- 📚 Actualmente soy analista de control de gestion en Grupo Cenoa.<br>- ⚡ En mi tiempo libre me gusta ir al gimnasio 💪.<br></p>
 
 ###
 
